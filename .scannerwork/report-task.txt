@@ -1,0 +1,6 @@
+projectKey=InventorySystem1.0
+serverUrl=http://localhost:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://localhost:9000/dashboard?id=InventorySystem1.0
+ceTaskId=AXjW5FBzewOvs1dWx7tD
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXjW5FBzewOvs1dWx7tD
